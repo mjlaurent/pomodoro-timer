@@ -46,3 +46,10 @@ function longBreak(state){
     intervals.forEach(clearInterval);
     startTimer(state);
 }
+
+function clearAll(){
+    // alert("hello");
+    // console.log("Hello");
+    intervals.forEach(clearInterval);
+    document.getElementById("timer").innerHTML = "Let's start";
+}
