@@ -1,3 +1,7 @@
+# I did not own this template
+What I own is the functional javascript and some modification on index.html and styles.css, other than that, i.e. bootstrap starter template is from contributor that I've listed in the following readme. Thanks.
+
+
 # [Start Bootstrap - Bare](https://startbootstrap.com/template/bare/)
 
 [Bare](https://startbootstrap.com/template/bare/) is a bare HTML starter template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template features a basic project structure perfect for creating modern, responsive websites and applications.
